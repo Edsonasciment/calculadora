@@ -15,7 +15,7 @@
     <string name="btn_divisao">/</string>
     <string name="btn_subtracao">-</string>
     <string name="btn_multiplicacao">*</string>
-    <string name="btn_apagar">P</string>
+    <string name="btn_apagar">C</string>
     <string name="btn_igual">=</string>
     <string name="btn_virgula">,</string>
 </resources>
